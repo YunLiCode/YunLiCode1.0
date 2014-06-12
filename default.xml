@@ -4,7 +4,7 @@
   <remote  name="github"
            fetch="git://github.com" />
 
-  <default revision="refs/heads/jellybean"
+  <default revision="refs/heads/v1"
            remote="github"
            sync-j="4" />
 
