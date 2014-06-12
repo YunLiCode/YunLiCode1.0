@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="git://github.com" />
+
+  <default revision="refs/heads/jellybean"
+           remote="github"
+           sync-j="4" />
+
+  <project path="build" name="YunLiCode/YunLicode_build">
+    <copyfile src="makefile" dest="Makefile" />
+  </project>
+  <project path="manifest" name="YunLiCode/patchrom" />
+  <project path="android" name="YunLiCode/patchrom_android" />
+  <project path="vendor" name="YunLiCode/patchrom_YunLi" />
+  <project path="work" name="YunLiCode/patchrom_tools" />
+  <project path="framework" name="YunLiCode/patchrom_m1s" />
+  <project path="out" name="YunLiCode/patchrom_coolpad5890" />
+</manifest>
