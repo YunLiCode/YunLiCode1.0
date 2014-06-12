@@ -8,13 +8,13 @@
            remote="github"
            sync-j="4" />
 
-  <project path="build" name="YunLiCode/YunLicode_build">
+  <project path="build" name="YunLiCode/YunLicode1.0_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
-  <project path="manifest" name="YunLiCode/patchrom" />
-  <project path="android" name="YunLiCode/patchrom_android" />
-  <project path="vendor" name="YunLiCode/patchrom_YunLi" />
-  <project path="work" name="YunLiCode/patchrom_tools" />
-  <project path="framework" name="YunLiCode/patchrom_m1s" />
-  <project path="out" name="YunLiCode/patchrom_coolpad5890" />
+  <project path="manifest" name="YunLiCode/YunLiCode1.0" />
+  <project path="android" name="YunLiCode/YunLiCode1.0_android" />
+  <project path="vendor" name="YunLiCode/YunLiCode1.0_vendor" />
+  <project path="work" name="YunLiCode/YunLiCode1.0_work" />
+  <project path="framework" name="YunLiCode/YunLiCode1.0_framework" />
+  <project path="out" name="YunLiCode/YunLiCode1.0_out" />
 </manifest>
