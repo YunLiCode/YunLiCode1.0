@@ -12,7 +12,6 @@
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="YunLiCode/YunLiCode1.0" />
-  <project path="android" name="YunLiCode/YunLiCode1.0_android" />
   <project path="vendor" name="YunLiCode/YunLiCode1.0_vendor" />
   <project path="work" name="YunLiCode/YunLiCode1.0_work" />
   <project path="framework" name="YunLiCode/YunLiCode1.0_framework" />
