@@ -16,4 +16,5 @@
   <project path="work" name="YunLiCode/YunLiCode1.0_work" />
   <project path="framework" name="YunLiCode/YunLiCode1.0_framework" />
   <project path="out" name="YunLiCode/YunLiCode1.0_out" />
+  <<project path="framework/framework-res" name="YunLiCode/YunLiCode1.0_framework_framework-res" />
 </manifest>
