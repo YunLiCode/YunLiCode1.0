@@ -16,5 +16,11 @@
   <project path="work" name="YunLiCode/YunLiCode1.0_work" />
   <project path="framework" name="YunLiCode/YunLiCode1.0_framework" />
   <project path="out" name="YunLiCode/YunLiCode1.0_out" />
+  <project path="packages/bbs" name="YunLiCode/packages_bbs" />
+  <project path="packages/browser" name="YunLiCode/packages_browser" />
+  <project path="packages/input" name="YunLiCode/packages_input" />
+  <project path="packages/RE" name="YunLiCode/packages_RE" />
+  <project path="packages/SystemUI" name="YunLiCode/packages_SystemUI" />
+  <project path="packages/TitaniumBackup" name="YunLiCode/packages_TitaniumBackup" />
   <project path="framework/framework-res" name="YunLiCode/framework_framework-res" />
 </manifest>
