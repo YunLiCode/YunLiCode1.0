@@ -17,7 +17,7 @@
   <project path="framework" name="YunLiCode/YunLiCode1.0_framework" />
   <project path="out" name="YunLiCode/YunLiCode1.0_out" />
   <project path="packages/bbs" name="YunLiCode/packages_bbs" />
-  <project path="packages/browser" name="YunLiCode/packages_browser" />
+  <project path="packages/browser" name="YunLiCode/packages_browser" revision="refs/heads/V1" />
   <project path="packages/input" name="YunLiCode/packages_input" />
   <project path="packages/RE" name="YunLiCode/packages_RE" />
   <project path="packages/SystemUI" name="YunLiCode/packages_SystemUI" />
