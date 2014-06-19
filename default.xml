@@ -25,6 +25,7 @@
   <project path="packages/Weather" name="YunLiCode/packages_weather" />
   <project path="packages/Deskclock" name="YunLiCode/packages_Deskclock" />
   <project path="packages/notes" name="YunLiCode/packages_notes" />
-  <project path="packages/calender" name="YunLiCode/packages/calender" />
+  <project path="packages/calender" name="YunLiCode/packages_calender" />
+  <project path="packages/calculator" name="YunLiCode/packages_calculator" />
   <project path="framework/framework-res" name="YunLiCode/framework_framework-res" />
 </manifest>
