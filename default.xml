@@ -4,7 +4,7 @@
   <remote  name="github"
            fetch="git://github.com" />
 
-  <default revision="refs/heads/v1"
+  <default revision="refs/heads/master"
            remote="github"
            sync-j="4" />
 
