@@ -28,5 +28,6 @@
   <project path="packages/calender" name="YunLiCode/packages_calender" />
   <project path="packages/calculator" name="YunLiCode/packages_calculator" />
   <project path="packages/Settings" name="YunLiCode/package_Settings" />
+  <project path="packages/Settings/Roundr" name="YunLiCode/packages_Settings_Roundr" />
   <project path="framework/framework-res" name="YunLiCode/framework_framework-res" />
 </manifest>
